@@ -1,13 +1,6 @@
 # Traffic sign classifier
-Classify Traffic Signs from [German Traffic Sign Data set](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
-Each image is 32x32 pixels and belongs to one of 43 classes. Training and inference are achieved using Keras with either Tensorflow or Theano as backend.
-The data set (124 MB) is downloaded automatically and consists of three parts: `train, valid, test`.
-
-![70](examples/sign_00070.png)
-![178](examples/sign_00178.png)
-![195](examples/sign_00195.png)
-![323](examples/sign_00323.png)
-![987](examples/sign_00987.png)
+Project based on https://github.com/mohamedameen93/German-Traffic-Sign-Classification-Using-TensorFlow
+Demonstration video :
 
 ## Run
 You can start by running the inference script to make sure that prerequisites are correctly installed.
