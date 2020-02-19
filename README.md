@@ -1,6 +1,7 @@
 # Traffic sign classifier
 Project based on https://github.com/mohamedameen93/German-Traffic-Sign-Classification-Using-TensorFlow
 Demonstration video :
+![](ezgif.com-gif-maker.gif)
 
 ## Run
 You can start by running the inference script to make sure that prerequisites are correctly installed.
